@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "",
+    "db": "mongodb+srv://nodejs:qzjbwttiCegQfXyG@nodejsdb.9looxxz.mongodb.net/Vidly"
+}
