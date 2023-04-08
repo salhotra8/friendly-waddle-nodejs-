@@ -1,4 +1,4 @@
 {
     "jwtPrivateKey": "7988498",
-    "db" : "mongodb+srv://nodejs:qzjbwttiCegQfXyG@nodejsdb.9looxxz.mongodb.net/Vidly_test"
+    "db" : "mongoDbUri_test"
 }
